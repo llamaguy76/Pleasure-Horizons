@@ -1,6 +1,7 @@
 # Pleasure Horizons
 
-**Pleasure Horizons** is an adult-themed mod for **Minecraft 1.21+** built using the **Fabric Mod Loader**. It’s a full remake and modern reimagining of the old 1.12.2 **FapCraft** mod made by *Schnurri_tv*, rebuilt from the ground up to support current versions of Minecraft using modern tools and practices.
+**Pleasure Horizons** is an adult-themed mod for **Minecraft 1.21+** built using the **Fabric Mod Loader**. It’s a full remake and modern reimagining of the old 1.12.2 **FapCraft** mod made by *Schnurri_tv*, rebuilt from the ground up to support current versions
+of Minecraft using modern tools and practices.
 
 # Join the Discord Server For The Latest and Greatest Versions
 ## https://discord.gg/PleasureHorizons
